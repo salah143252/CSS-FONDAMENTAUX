@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header , .section1{
+    height: 60px;
+    background-color: blanchedalmond;
+    padding: 5px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: larger;
+    padding-top: 25px;
+    margin-bottom: 7px;
+}
+.section1{
+    background-color: aqua;
+   
+}
+.section2{
+    display: flex;
+    background-color: rgba(0, 0, 255, 0.445);
+    justify-content: space-around;
+
+}.mini-section{
+    background-color: brown;
+    width: 30%;
+    padding: 2px;
+}
